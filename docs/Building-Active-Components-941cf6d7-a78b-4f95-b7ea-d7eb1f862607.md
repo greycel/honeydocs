@@ -248,7 +248,7 @@ For most input elements this can be accomplished in the following manner. Select
 
 Some fields might require values to be formatted or transformed before they are written back to the `hny.data.record` data object to be submitted back to NetSuite. An example of this are date and time fields which must be retrieved and sent back to NetSuite in a specific format. When this is a requirement, the following configuration should be used. 
 
-[FIGURE OUT WHAT THE HELL WE GON' DO]
+[TO BE ADDED]
 
 **Search List Components**
 

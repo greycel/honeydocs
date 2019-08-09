@@ -2,19 +2,32 @@
 
  * **Getting Started Building Forms**
 
-   * [Form Configurations](./Form-Configurations-094dd726-34b6-46a0-aedb-1f7f4fb8fd43.md)
-
-   * [Form Component Configurations](./Form-Component-Configurations-f0f20067-5869-49e6-ab42-c3744a9cf0de.md)
-
-   * [Component Categories](./Component-Categories-227ee7d2-0d7d-4390-9152-f0556171f3d9.md)
+   * [Honey Forms Basics](./Honey-Forms-Basics-1cdfc74e-9c2e-4f9d-929c-17dc50fc8e83.md)
 
    * [Creating a Honey App](./Creating-a-Honey-App-9c22125e-bc7d-4872-bf72-f3a279775279.md)
 
    * [Building Honey Forms](./Building-Honey-Forms-16912ea4-4245-4eb4-bb00-be90b8c622a4.md)
 
+   * [Form Configurations](./Form-Configurations-094dd726-34b6-46a0-aedb-1f7f4fb8fd43.md)
+
+   * [Form Component Configurations](./Form-Component-Configurations-f0f20067-5869-49e6-ab42-c3744a9cf0de.md)
 
 
- * **Building Custom Components**
+* **Advanced Forms Concepts**
+
+   *  [App Authentication](./App-Authentication-3be8db20-6f61-4e1c-9322-10ba7165204c.md)
+
+   *  [App Authorized User Lists](./App-Authorized-User-Lists-1d106476-185c-475d-9ff0-13a53deaf93f.md)
+
+
+* **Setting Up Honey Themes**
+
+  * [Page Form Sections](./Page-Form-Sections-0354d909-f0d7-4f92-80a0-418397eb2539.md)
+
+  * [Honey Page Tags](./Honey-Page-Tags-72ba3869-4e64-4326-abe9-71bac1e98b58.md)
+
+
+* **Building Custom Components**
 
   * [Building Custom Components](./Building-Custom-Components-171b18f6-6bf5-4254-b677-9c93efc2f3c7.md)
 
@@ -36,12 +49,11 @@
 
   * [Building with Custom Settings](./Building-with-Custom-Settings-d92dc827-9c1f-459c-84cc-afbd8d6341c2.md)
 
- * **Setting Up Honey Themes**
 
-  * [Page Form Sections](./Page-Form-Sections-0354d909-f0d7-4f92-80a0-418397eb2539.md)
+* **Reference Documents**
 
-  * [Honey Page Tags](./Honey-Page-Tags-72ba3869-4e64-4326-abe9-71bac1e98b58.md)
+  * [Component Categories](./Component-Categories-227ee7d2-0d7d-4390-9152-f0556171f3d9.md)
 
- * **Technical Documentation**
+* **Technical Documentation**
 
   * [Database Structure](./Database-Structure-2b854564-4e2b-42f2-bf42-351c254a5c0c.md)

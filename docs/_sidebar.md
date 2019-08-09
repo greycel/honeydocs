@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
-* [**Honey Forms Knowledge Base**](/)
 
  * **Getting Started Building Forms**
 

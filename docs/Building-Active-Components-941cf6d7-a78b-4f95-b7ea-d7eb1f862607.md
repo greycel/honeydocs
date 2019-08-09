@@ -12,7 +12,7 @@ Because the components are built and configured in the Honey Forms bundle, there
 
 ## **Code Blocks**
 
-The following is an overview of the code blocks that make up the component definition. Regardless of weather these are edited and uploaded from a [component definition file](https://www.notion.so/Component-Definition-File-7cd2a959dc25477489e05ba5addc9abf) or input directly into NetSuite, the four different sections remain the same. 
+The following is an overview of the code blocks that make up the component definition. Regardless of weather these are edited and uploaded from a [component definition file](./Component-Definition-File-7cd2a959-dc25-4774-89e0-5ba5addc9abf.md) or input directly into NetSuite, the four different sections remain the same. 
 
 **Template HTML**
 
@@ -54,7 +54,7 @@ Instance JavaScript is rendered on the page again each time the component is use
 
 ## **Form Component Configurations**
 
-The form component configurations are stored in the Honey App root instance data under `hny.formComponents`. The config values for each form component are stored there indexed by the form component internal ID. More data on the data structure is available on the [Data Structure page](https://www.notion.so/Forms-Data-Structure-7992cfc58ba44fb8a300de79f8540a06). 
+The form component configurations are stored in the Honey App root instance data under `hny.formComponents`. The config values for each form component are stored there indexed by the form component internal ID. More data on the data structure is available on the [Data Structure page](./Forms-Data-Structure-7992cfc5-8ba4-4fb8-a300-de79f8540a06.md). 
 
 In order to access the form component configurations, one can use the above `hny` and `hnyFcid` props to retrieve the data. This can be accessed in the Template JavaScript or HTML using the following:
 
@@ -184,7 +184,7 @@ The `fc.groupClasses` property is always used to add additional classes to the t
 
 The `fc.classes` values should be applied to the main element or elements in the component such as the text input field as opposed to divs which contain it. 
 
-More complex arrangements with custom classes being injected into the Template HTML can be accomplished with [Custom Settings](https://www.notion.so/Building-with-Custom-Settings-d92dc8279c1f459c84ccafbd8d6341c2). 
+More complex arrangements with custom classes being injected into the Template HTML can be accomplished with [Custom Settings](./Building-with-Custom-Settings-d92dc827-9c1f-459c-84cc-afbd8d6341c2.md). 
 
 Additional classes are added using the `v-bind:class` or just `:class` Vue.js attributes. These can be used along side static classes as follows:
 
@@ -214,7 +214,7 @@ a) do so locally in the component data object if the component does not need to 
 
 b) store them in the root data instance for the Honey app
 
-All values stored in the root instance should reside within the `hny.data` object. There are several locations where data can be stored under this object, more specifics on the data structure can be found the [Data Structure](https://www.notion.so/Forms-Data-Structure-7992cfc58ba44fb8a300de79f8540a06) page. 
+All values stored in the root instance should reside within the `hny.data` object. There are several locations where data can be stored under this object, more specifics on the data structure can be found the [Data Structure](./Forms-Data-Structure-7992cfc5-8ba4-4fb8-a300-de79f8540a06.md) page. 
 
 The primary options are:
 
@@ -252,7 +252,7 @@ Some fields might require values to be formatted or transformed before they are 
 
 **Search List Components**
 
-Search list components have their own rules as there quite a few settings on the Form Component record for configuring search lists. See [Building Search List Components](https://www.notion.so/Building-Search-List-Components-03013c46085a4bdf9e87cfe18e7b15ef) for more information. 
+Search list components have their own rules as there quite a few settings on the Form Component record for configuring search lists. See [Building Search List Components](./Building-Search-List-Components-03013c46-085a-4bdf-9e87-cfe18e7b15ef.md) for more information. 
 
 **Sublist Components**
 
@@ -260,4 +260,4 @@ Sublist fields have their own set of rules that must be followed for the compone
 
 **Stackable Components**
 
-Stackable components which can be re-used inside of other component templates have additional requirements which are covered on the [Stackable Components](https://www.notion.so/Building-Stackable-Components-2b978058176648a79c3d919cd6e1f909) documentation page.
+Stackable components which can be re-used inside of other component templates have additional requirements which are covered on the [Stackable Components](./Building-Stackable-Components-2b978058-1766-48a7-9c3d-919cd6e1f909.md) documentation page.

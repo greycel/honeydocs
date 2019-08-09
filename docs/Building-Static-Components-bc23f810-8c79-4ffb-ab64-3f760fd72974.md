@@ -10,7 +10,7 @@ Not used.
 
 **Instance HTML**
 
-The component HTML elements are entered here along with any [Builder Value Tags](https://www.notion.so/Honey-Component-Builder-Values-888b2919953841e1b470f1f72885a7ab) to add database values to the component when they are rendered on the page. Example:
+The component HTML elements are entered here along with any [Builder Value Tags](./Honey-Component-Builder-Values-888b2919-9538-41e1-b470-f1f72885a7ab.md) to add database values to the component when they are rendered on the page. Example:
 
     <div>
     	  <h2>{#fc:label}</h2>

@@ -1,6 +1,6 @@
 # Component Builder Values
 
-**Important:** With the exception of the "c" values (see below), the tags can not be used in the Template HTML and JavaScript code blocks. They are designed only to be used used in the Instance HTML and JavaScript. They also can not be used in stacked components - only the top level component being rendered. "Active" components can access these same properties via the forms data structure. For more information see the [Building Honey Components](https://www.notion.so/Building-Honey-Components-1d1e380e45bb4ff68b17565ca5f7854c) page.
+**Important:** With the exception of the "c" values (see below), the tags can not be used in the Template HTML and JavaScript code blocks. They are designed only to be used used in the Instance HTML and JavaScript. They also can not be used in stacked components - only the top level component being rendered. "Active" components can access these same properties via the forms data structure. For more information see the [Building Honey Components](./Building-Honey-Components-1d1e380e-45bb-4ff6-8b17-565ca5f7854c.md) page.
 
 ## What are Component Builder Values?
 
@@ -32,7 +32,7 @@ Component values are values which are stored on the Component table and are pref
 
 Form component values are values which are stored on the Form Component table and are prefixed with a "fc" when being used. 
 
-These values can not be used in Template HTML/JavaScript code blocks. For more information see the [Building Honey Components](https://www.notion.so/Building-Honey-Components-1d1e380e45bb4ff68b17565ca5f7854c) page.
+These values can not be used in Template HTML/JavaScript code blocks. For more information see the [Building Honey Components](./Building-Honey-Components-1d1e380e-45bb-4ff6-8b17-565ca5f7854c.md) page.
 
 **Component Setting Values - Prefix "cs"**
 
@@ -40,13 +40,13 @@ Component setting values are values which are stored on the Form Component Setti
 
 There is no predefined list of "cs" builder values, they consist entirely of the settings which are made available for each component and are component specific. 
 
-These values can not be used in Template HTML/JavaScript code blocks. For more information see the [Building Honey Components](https://www.notion.so/Building-Honey-Components-1d1e380e45bb4ff68b17565ca5f7854c) page.
+These values can not be used in Template HTML/JavaScript code blocks. For more information see the [Building Honey Components](./Building-Honey-Components-1d1e380e-45bb-4ff6-8b17-565ca5f7854c.md) page.
 
 ## Component Builder Values List
 
 The following is a list of the supported builder values of the "c" and "fc" types. The underlying database field name which the values are taken from is also indicated. Unless otherwise stated, these builder values are available for use in both the HTML and JavaScript blocks. 
 
-Many of these values are also available via the [Honey data structure](https://www.notion.so/Honey-Data-Structure-7992cfc58ba44fb8a300de79f8540a06) which is accessible via dynamic components once the page is rendered. Including the 
+Many of these values are also available via the [Honey data structure](./Honey-Data-Structure-7992cfc5-8ba4-4fb8-a300-de79f8540a06.md) which is accessible via dynamic components once the page is rendered. Including the 
 
 **c:template**
 
@@ -99,7 +99,7 @@ This tag is used with a container type component which into which child form com
 
 Container components can be nested into a hierarchy with child components rendering on the page inside of other child components. This is common practice in creating dynamic, responsive bootstrap layouts. 
 
-This tag like other "fc" tags can only be used in the instance HTML field so is generally not used with "active" honey components. For more information see [Building Honey Components](https://www.notion.so/Building-Honey-Components-1d1e380e45bb4ff68b17565ca5f7854c).
+This tag like other "fc" tags can only be used in the instance HTML field so is generally not used with "active" honey components. For more information see [Building Honey Components](./Building-Honey-Components-1d1e380e-45bb-4ff6-8b17-565ca5f7854c.md).
 
 An example of use of the `fc:content` tag is:
 

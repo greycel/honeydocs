@@ -2,7 +2,7 @@
 
 ## Configurations List
 
-The following is a list of the various fields and options available on a Honey Form Component record. For more information on the fields available on when creating new components please see the [Building Honey Components](https://www.notion.so/Building-Honey-Components-1d1e380e45bb4ff68b17565ca5f7854c) page.
+The following is a list of the various fields and options available on a Honey Form Component record. For more information on the fields available on when creating new components please see the [Building Honey Components](./Building-Honey-Components-1d1e380e45bb4ff68b17565ca5f7854c.md) page.
 
 Link:
 
